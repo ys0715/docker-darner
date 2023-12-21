@@ -1,4 +1,8 @@
 # docker-darner
+git clone https://github.com/ys0715/docker-darner.git 
+
+cd docker-darner 
+ 
 tar -zxvf darner.tar.gz
 
 cat darner.tar | docker import - darner
